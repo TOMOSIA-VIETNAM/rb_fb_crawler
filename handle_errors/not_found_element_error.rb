@@ -1,0 +1,2 @@
+class NotFoundElementError < StandardError
+end
